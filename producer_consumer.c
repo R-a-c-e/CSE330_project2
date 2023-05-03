@@ -1,5 +1,4 @@
 // Project 2, Group 14
-// Ryan Skabelund
 
 // Include module and kernel
 #include <linux/module.h>
